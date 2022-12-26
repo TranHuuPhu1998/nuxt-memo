@@ -19,6 +19,7 @@
     "*.{css,scss,sass,html,vue}": "stylelint"
   },
   "dependencies": {
+    "@babel/preset-env": "^7.20.2",
     "@chakra-ui/nuxt": "^0.6.0",
     "@nuxtjs/emotion": "^0.1.0",
     "core-js": "^3.25.3",
