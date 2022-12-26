@@ -24,7 +24,7 @@
     "@nuxtjs/emotion": "^0.1.0",
     "core-js": "^3.25.3",
     "defu": "^6.1.1",
-    "nuxt": "^2.15.7",
+    "nuxt": "^3.0.0",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10"
