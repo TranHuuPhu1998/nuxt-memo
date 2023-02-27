@@ -22,7 +22,7 @@
     "@babel/preset-env": "^7.20.2",
     "@chakra-ui/nuxt": "^0.6.0",
     "@nuxtjs/emotion": "^0.1.0",
-    "core-js": "^3.25.3",
+    "core-js": "^3.29.0",
     "defu": "^6.1.1",
     "nuxt": "^2.15.7",
     "vue": "^2.7.10",
